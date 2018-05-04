@@ -1,0 +1,9 @@
+Building Gurtaj
+
+See doc/readme-qt.rst for instructions on building Gurtaj-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Gurtaj.
+
+See doc/build-*.txt for instructions on building gurtajd,
+the intended-for-services, no-graphical-interface, reference
+implementation of Gurtaj.
